@@ -1,17 +1,73 @@
-# ☢️ ForeverWinter - Сталкер в мире кода ☢️
+<h1 align="center">Привет, я ForeverWinterNight ❄️</h1>
 
-> "Зона зовет, но не каждый вернется. Я - ForeverWinter, разработчик, исследующий аномалии кода и технологий."
+<p align="center">
+  Фрилансер, разработчик и просто влюблён в технологии ☕<br>
+  Пишу код, запускаю ботов, настраиваю сервера и слежу за безопасностью 🛠️
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ForeverWinterNight&label=Просмотры+профиля&color=blueviolet&style=flat" alt="profile views"/>
+</p>
 
 ---
 
-## 📟 Досье Сталкера
-- **Кличка:** ForeverWinter
-- **Статус:** Разработчик, выжившающий в цифровой Зоне
-- **Миссия:** Исследование глубин AI и создание артефактов Generative Models
+### 🧠 Немного обо мне
+
+- 🔧 Люблю автоматизацию, Docker — мой лучший друг
+- 🐧 Linux-фанат (да, а еще я тот самый чел с r/unixporn)
+- 🤖 Пишу Telegram-ботов и микросервисы
+- 🌐 Строю проекты с нуля: от идеи до продакшена
 
 ---
 
-## ⚠️ Предупреждение
-> "Не лезь в аномалии без подготовки. Если хочешь связаться, используй защищенные каналы. Зона не прощает ошибок."
-Каналов пока нет. Мир не безопасен.
-☢️ **ForeverWinter** - выживаю в коде, как в Зоне. Удачи, сталкер. ☢️
+### ⚙️ Мои инструменты
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
+---
+
+### 📈 GitHub Статистика
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ForeverWinterNight&show_icons=true&theme=github_dark&hide_title=true" alt="stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ForeverWinterNight&theme=dark" alt="streak" />
+</p>
+
+---
+
+### 🔄 Последняя активность
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+### 📫 Контакты
+
+- Telegram: [@ForeverWinterNight](https://t.me/ForeverWinterNight) / [@EnvExample](https://t.me/EnvExample)
+- GitHub: [github.com/ForeverWinterNight](https://github.com/ForeverWinterNight)
+
+---
+
+### 🧬 Цитата дня
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=00BFFF&center=true&width=435&lines=Code.+Sleep.+Hack.+Repeat." alt="typing"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
+</p>
+
+<p align="center">
+  <em>Скоро здесь появятся крутые проекты. Осторожно: может понравиться 😉</em>
+</p>
