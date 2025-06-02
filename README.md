@@ -7,6 +7,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ForeverWinterNight&label=Profile+views&color=blueviolet" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Profile_Views-∞-blueviolet?style=flat-square" alt="💜 Profile Views"/>
+</p>
+
 </p>
 
 ---
