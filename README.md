@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  ![💜 Profile Views](https://img.shields.io/badge/Profile_Views-∞-blueviolet?style=flat-square)
+  <img src="https://komarev.com/ghpvc/?username=ForeverWinterNight&label=Profile+views&color=blueviolet" alt="Profile views"/>
 </p>
 
 ---
